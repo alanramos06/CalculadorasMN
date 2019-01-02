@@ -1,0 +1,21 @@
+c:\users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.exe.config
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.csprojResolveAssemblyReference.cache
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.Form1.resources
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.Properties.Resources.resources
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.csproj.GenerateResource.Cache
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.exe
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.pdb
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\MetroFramework.dll
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.exe
+C:\Users\efradxxd\documents\visual studio 2015\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.pdb
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.exe.config
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.exe
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\bin\Debug\Calcaladora_Interpolacion.pdb
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.csprojResolveAssemblyReference.cache
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.Form1.resources
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.Properties.Resources.resources
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.csproj.GenerateResource.Cache
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.csproj.CoreCompileInputs.cache
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.exe
+C:\Users\Alan Ramos\Documents\Visual Studio 2017\Projects\Calcaladora_Interpolacion\Calcaladora_Interpolacion\obj\Debug\Calcaladora_Interpolacion.pdb

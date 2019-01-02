@@ -1,0 +1,9 @@
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.csprojResolveAssemblyReference.cache
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.Form1.resources
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.Properties.Resources.resources
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.csproj.GenerateResource.Cache
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\bin\Debug\biseccion.exe.config
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\bin\Debug\biseccion.exe
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\bin\Debug\biseccion.pdb
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.exe
+C:\Users\Paola\documents\visual studio 2017\Projects\biseccion\biseccion\obj\Debug\biseccion.pdb
